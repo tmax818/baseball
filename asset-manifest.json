@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/baseball/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/baseball/static/js/main.6f0f4180.chunk.js",
+    "main.js.map": "/baseball/static/js/main.6f0f4180.chunk.js.map",
+    "runtime-main.js": "/baseball/static/js/runtime-main.d572617f.js",
+    "runtime-main.js.map": "/baseball/static/js/runtime-main.d572617f.js.map",
+    "static/js/2.21c7004c.chunk.js": "/baseball/static/js/2.21c7004c.chunk.js",
+    "static/js/2.21c7004c.chunk.js.map": "/baseball/static/js/2.21c7004c.chunk.js.map",
+    "static/js/3.f0fb9071.chunk.js": "/baseball/static/js/3.f0fb9071.chunk.js",
+    "static/js/3.f0fb9071.chunk.js.map": "/baseball/static/js/3.f0fb9071.chunk.js.map",
+    "index.html": "/baseball/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/baseball/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.21c7004c.chunk.js.LICENSE.txt": "/baseball/static/js/2.21c7004c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/baseball/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d572617f.js",
+    "static/js/2.21c7004c.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.6f0f4180.chunk.js"
+  ]
+}
